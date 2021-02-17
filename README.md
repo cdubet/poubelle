@@ -1,2 +1,2 @@
 bla bla
-gne 2
+gne X
